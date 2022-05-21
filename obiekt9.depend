@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653155175 source:c:\users\kamil\documents\programowanie\obiekt9\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+
